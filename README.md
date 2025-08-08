@@ -51,21 +51,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-## ⚡️ Stats
-
-<br>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nikhil-7781&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nikhil's GitHub Stats" />
-  
-  <!-- Streak Stats (Vercel version - more reliable than Heroku) -->
-  <img width="390" src="./streak.svg" alt="Nikhil's GitHub Streak" />
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-7781&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Nikhil's Most Used Languages" />
-</div>
-
-<hr>
 
 
 
