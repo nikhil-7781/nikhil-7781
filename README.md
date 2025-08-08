@@ -60,8 +60,7 @@ Here are some ideas to get you started:
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=nikhil-7781&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nikhil's GitHub Stats" />
   
   <!-- Streak Stats (Vercel version - more reliable than Heroku) -->
-  <img width="390" src="https://streak-stats.demolab.com?user=nikhil-7781&theme=transparent&date_format=j%20M%5B%20Y%5D&v=1" alt="Nikhil's GitHub Streak" />
-  
+  <img width="390" src="./streak.svg" alt="Nikhil's GitHub Streak" />
   <!-- Top Languages -->
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-7781&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Nikhil's Most Used Languages" />
 </div>
