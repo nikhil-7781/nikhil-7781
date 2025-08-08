@@ -1,0 +1,26 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate streak SVG
+        run: |
+          curl "https://streak-stats.demolab.com?user=nikhil-7781&theme=transparent&date_format=j%20M%5B%20Y%5D" \
+            --output streak.svg
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git commit -m "Update streak stats"
+          git push
