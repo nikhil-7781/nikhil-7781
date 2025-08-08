@@ -40,6 +40,17 @@ Here are some ideas to get you started:
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,linux,git,pytorch,scikit-learn,pandas,numpy" />
+</p>
+
+<hr>
+
 
 
 
