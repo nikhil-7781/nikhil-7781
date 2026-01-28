@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### An AI/ML engineer passionate about building beautiful, functional, impactful services.
 
-- 🌱 I’m currently working at ODeX**
+- 🌱 I’m currently working at **ODeX**
 
 <br>
 
